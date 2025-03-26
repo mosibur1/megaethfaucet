@@ -12,7 +12,7 @@ init(autoreset=True)
 
 # ================== CONFIG ==================
 THREADS = 20 # Config number of threads
-TWO_CAPTCHA_API_KEY = "your-2captcha-api-key"  # Config your 2captcha api key
+TWO_CAPTCHA_API_KEY = "cdf46283d6f8b47ef9498d8459b5839b"  # Config your 2captcha api key
 
 
 TURNSTILE_SITEKEY = "0x4AAAAAABA4JXCaw9E2Py-9"
